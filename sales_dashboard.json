@@ -1,0 +1,9 @@
+{
+  "date": "2026-05-19",
+  "today_sales": 320,
+  "avg_daily_sales": 190,
+  "trend": "rising",
+  "SKU_001_sold_today": 140,
+  "SKU_003_sold_today": 95,
+  "projected_stockout_days": 2
+}
